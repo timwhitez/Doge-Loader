@@ -13,7 +13,7 @@
 项目结构如下：
 ```
 main.go
-主程序，用于远程下载shellcode并加载
+主程序，用于远程下载shellcode并加载(需要自行上传shellcode(bin文件)并且修改源码里的url等参数)
 
 xor.go
 异或编码解码器
