@@ -5,6 +5,8 @@
 
 - Doge-Loader为Doge系列比较重要的项目🐶
 
+- 本项目感谢朋友gd, skate_zhu的帮助
+
 # 🐶Doge-Loader
 本项目主要作用为Cobalt Strike的shellcode加载器
 
