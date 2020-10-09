@@ -38,7 +38,6 @@ xor.go
 
 /local/txt/xor/xor.go
 shellcode异或编码
-
 ```
 注：在开源前做了些取舍，去掉了下载的域前置，cdn ip轮询，代理穿透等功能。
 
