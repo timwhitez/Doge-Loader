@@ -26,6 +26,19 @@ xor.go
 
 /enhancement/sandbox.go
 反沙箱，沙箱内部数据需要自行收集，见我后续项目
+
+/local
+本地shellcode文件分离加载
+
+/local/bin/main.go
+本地shellcode raw格式分离加载
+
+/local/txt/main.go
+本地shellcode文本格式异或分离加载（以/x开头）
+
+/local/txt/xor/xor.go
+shellcode异或编码
+
 ```
 注：在开源前做了些取舍，去掉了下载的域前置，cdn ip轮询，代理穿透等功能。
 
