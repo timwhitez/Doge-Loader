@@ -3,7 +3,7 @@
 
 - 本人github的项目可能目前主要分为两大类，🐸Frog系列为自动化扫描方向，🐶Doge系列为免杀及内网渗透方向
 
-- Doge-Loader为Doge系列比较重要的项目🐶
+- Doge-Loader为Doge系列中较为重要的项目🐶
 
 - 本项目感谢朋友gd, skate_zhu的帮助
 
