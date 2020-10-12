@@ -10,6 +10,8 @@
 # 🐶Doge-Loader
 本项目主要作用为Cobalt Strike的shellcode加载器
 
+编译：go build -gcflags=-trimpath=$GOPATH -asmflags=-trimpath=$GOPATH -ldflags "-w -s"
+
 项目结构如下：
 ```
 main.go
