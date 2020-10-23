@@ -44,3 +44,6 @@ shellcode异或编码
 注：在开源前做了些取舍，去掉了下载的域前置，cdn ip轮询，代理穿透等功能。
 
 仅为功能较为基础的shellcode加载器，可自行增添功能或协助丰富此开源项目。
+
+# 🚀Star Trend
+[![Stargazers over time](https://starchart.cc/timwhitez/Doge-Loader.svg)](https://starchart.cc/timwhitez/Doge-Loader)
