@@ -1,11 +1,11 @@
 ![Doge-Loader](https://socialify.git.ci/timwhitez/Doge-Loader/image?description=1&font=Raleway&forks=1&issues=1&language=1&logo=https%3A%2F%2Favatars1.githubusercontent.com%2Fu%2F36320909&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Light)
 
+- 🐸Frog For Automatic Scan
+
+- 🐶Doge For Defense Evasion&Offensive Security
+
 # Doge-Loader
 - Cobalt Strike Shellcode Loader by Golang
-
-- 本人github的项目可能目前主要分为两大类，🐸Frog系列为自动化扫描方向，🐶Doge系列为免杀及内网渗透方向
-
-- Doge-Loader为Doge系列中较为重要的项目🐶
 
 - 本项目感谢朋友gd, skate_zhu的帮助
 
