@@ -9,6 +9,8 @@
 
 - 本项目感谢朋友gd, skate_zhu的帮助
 
+- 此项目不进行后续更新，详见衍生新项目[Doge-Stealth-Framework](https://github.com/timwhitez/Doge-Stealth-Framework)
+
 # 🐶Doge-Loader
 本项目主要作用为Cobalt Strike的shellcode加载器
 
